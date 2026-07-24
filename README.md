@@ -53,15 +53,15 @@ Passionate about building reliable infrastructure, automating workflows, and con
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/gbmnagpng">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/gabriel-menezes-aragão-a95209424">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:gabrielvillanueva390@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
